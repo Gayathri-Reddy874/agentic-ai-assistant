@@ -15,8 +15,6 @@ test, and swap components in.
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Last Commit](https://img.shields.io/github/last-commit/Gayathri-Reddy874/agentic-ai-assistant)](https://github.com/Gayathri-Reddy874/agentic-ai-assistant/commits/main)
 
-> ⚠️ The CI badge above only turns green once the workflow file lives at
-> `.github/workflows/ci.yml` in this repo — see the [Testing](#testing) section.
 
 ## Screenshots
 
