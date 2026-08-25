@@ -139,7 +139,7 @@ trigger Actions or update the CI badge above.
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+MIT - see [LICENSE](LICENSE).
 
 ## Author
 
