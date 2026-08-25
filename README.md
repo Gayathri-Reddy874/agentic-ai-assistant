@@ -149,5 +149,5 @@ AI/ML Engineering graduate · Data Analyst / Data Scientist track
 
 - GitHub: [@Gayathri-Reddy874](https://github.com/Gayathri-Reddy874)
 
-Contributions, issues, and suggestions are welcome — feel free to open a
+Contributions, issues, and suggestions are welcome - feel free to open a
 pull request or an issue.
