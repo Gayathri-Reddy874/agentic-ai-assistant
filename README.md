@@ -144,6 +144,7 @@ MIT - see [LICENSE](LICENSE).
 ## Author
 
 **Mallareddygari Gayathri**
+
 AI/ML Engineering graduate · Data Analyst / Data Scientist track
 
 - GitHub: [@Gayathri-Reddy874](https://github.com/Gayathri-Reddy874)
