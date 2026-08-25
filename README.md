@@ -2,7 +2,7 @@
 
 A modular multi-agent personal assistant that answers natural-language
 requests about **weather**, **stock prices**, and **jokes**, can **create
-calendar events**, and can **email results** — with a Streamlit dashboard
+calendar events**, and can **email results** - with a Streamlit dashboard
 and a shared JSON context tracker for orchestration. Each capability is an
 independent, single-responsibility agent, so the system is easy to extend,
 test, and swap components in.
