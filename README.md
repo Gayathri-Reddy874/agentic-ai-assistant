@@ -127,7 +127,7 @@ ruff check .
 
 CI runs lint + tests on every push via GitHub Actions. **Note:** the workflow
 file must live at `.github/workflows/ci.yml` (nested folders, exact path) for
-GitHub to detect and run it — a file named `c.yml` at the repo root will not
+GitHub to detect and run it - a file named `c.yml` at the repo root will not
 trigger Actions or update the CI badge above.
 
 ## Roadmap
