@@ -145,7 +145,7 @@ MIT - see [LICENSE](LICENSE).
 
 **Mallareddygari Gayathri**
 
-AI/ML Engineering graduate · Data Analyst / Data Scientist track
+AI/ML Engineering graduate · Data Analyst / Data Scientist
 
 - GitHub: [@Gayathri-Reddy874](https://github.com/Gayathri-Reddy874)
 
