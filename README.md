@@ -150,6 +150,8 @@ trigger Actions or update the CI badge above.
 
 MIT - see [LICENSE](LICENSE).
 
+---
+
 ## Author
 
 **Mallareddygari Gayathri**
