@@ -29,6 +29,8 @@ test, and swap components in.
 
 ![Dashboard overview](screenshots/Results.png)
 
+---
+
 ## Features
 
 | Agent | Capability |
