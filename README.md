@@ -72,6 +72,8 @@ Each agent is a plain function with no shared mutable state, so agents can be
 tested, imported, or swapped independently. Routing (in `streamlit_app.py`)
 and orchestration (in `main.py`) are kept separate from agent logic.
 
+---
+
 ## Getting started
 
 ### 1. Clone and install
