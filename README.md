@@ -45,6 +45,8 @@ A lightweight shared **context tracker** (`core/context_manager.py`) records
 each agent's status and result to a local JSON file, so a run's state can be
 inspected or resumed independently of any single UI.
 
+---
+
 ## Architecture
 
 ```
