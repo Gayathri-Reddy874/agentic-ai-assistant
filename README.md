@@ -124,6 +124,8 @@ Then try prompts like:
 - "Tell me a joke"
 - "Book a meeting on 6th April 9AM"
 
+---  
+
 ## Testing
 
 ```bash
