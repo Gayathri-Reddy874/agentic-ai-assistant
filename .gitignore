@@ -1,1 +1,20 @@
+# Secrets & credentials
+.env
+credentials.json
+token.pickle
+
+# Local runtime state
+context.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# OS
+.DS_Store
 
