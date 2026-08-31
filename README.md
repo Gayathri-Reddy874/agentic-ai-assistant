@@ -144,6 +144,8 @@ trigger Actions or update the CI badge above.
 - [ ] Replace keyword-based routing with an LLM-based intent classifier
 - [ ] Add structured logging / observability hooks
 
+---
+
 ## License
 
 MIT - see [LICENSE](LICENSE).
