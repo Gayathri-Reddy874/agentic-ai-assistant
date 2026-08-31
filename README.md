@@ -7,8 +7,6 @@ and a shared JSON context tracker for orchestration. Each capability is an
 independent, single-responsibility agent, so the system is easy to extend,
 test, and swap components in.
 
-**Keywords:** `multi-agent-systems` · `python` · `streamlit` · `llm-orchestration` · `automation` · `api-integration`
-
 [![CI](https://github.com/Gayathri-Reddy874/agentic-ai-assistant/actions/workflows/ci.yml/badge.svg)](https://github.com/Gayathri-Reddy874/agentic-ai-assistant/actions/workflows/ci.yml)
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B)](https://streamlit.io/)
